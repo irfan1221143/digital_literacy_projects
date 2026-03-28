@@ -6,8 +6,8 @@ This folder contains evidence of my profiles on LinkedIn, GitHub, and Kaggle.
 
 ## 🔗 Professional Profiles
 * **GitHub:** [https://github.com/irfan1221143](https://github.com/irfan1221143)
-* **LinkedIn:** [https://linkedin.com/irfan-alam-5440b51b8](https://www.linkedin.com/in/irfan-alam-5440b51b8/)]
-* **Kaggle:** [https://kaggle.com/irfan25bai11088](https://www.kaggle.com/irfan25bai11088)]
+* **LinkedIn:** [https://linkedin.com/irfan-alam-5440b51b8](https://www.linkedin.com/in/irfan-alam-5440b51b8/)
+* **Kaggle:** [https://kaggle.com/irfan25bai11088](https://www.kaggle.com/irfan25bai11088)
 
 ## 📂 Deliverables
 1. **LinkedIn Profile:** Updated with current B.Tech (AI & ML) education at VIT Bhopal and relevant certifications.
