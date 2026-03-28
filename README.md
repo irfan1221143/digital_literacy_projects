@@ -11,38 +11,38 @@
 ---
 
 ## 📢 Project Overview
-[cite_start] As a selected **Student Digital Ambassador**, my role is to assist peers in navigating the digital world—from building professional online identities to ensuring safe and responsible digital communication[cite: 4, 5]. [cite_start]This repository contains my complete Digital Literacy Portfolio, organized into five core modules [cite: 6, 8].
+As a selected **Student Digital Ambassador**, my role is to assist peers in navigating the digital world—from building professional online identities to ensuring safe and responsible digital communication[cite: 4, 5]. [cite_start]This repository contains my complete Digital Literacy Portfolio, organized into five core modules .  
 
 ---
 
 ## 📂 Module Summaries
 
 ### Task 1: Digital Literacy Awareness Infographic
-* [cite_start]**Focus:** Visual communication of digital literacy and safe internet practices[cite: 21, 25].
-* [cite_start]**Tool Used:** Canva[cite: 147].
-* **Deliverable:** [Infographic Image](./task-1-presentation/)
+**Focus:** Visual communication of digital literacy and safe internet practices.
+**Tool Used:** Canva.
+**Deliverable:** [Infographic Image](./task-1-presentation/)
 
 ### Task 2: Student Digital Portfolio
-* [cite_start]**Focus:** Establishing a professional presence on key industry platforms[cite: 31].
-* [cite_start]**Platforms:** GitHub, LinkedIn, and Kaggle[cite: 155].
-* **Deliverable:** [Profile Screenshots](./task-2-portfolio/)
+**Focus:** Establishing a professional presence on key industry platforms.
+**Platforms:** GitHub, LinkedIn, and Kaggle.
+**Deliverable:** [Profile Screenshots](./task-2-portfolio/)
 
 ### Task 3: Coding & Collaboration Platforms
-* [cite_start]**Focus:** Technical proficiency and cloud-based teamwork[cite: 45].
-* [cite_start]**Coding Challenge:** Python challenge on HackerRank[cite: 164].
-* [cite_start]**Collaboration Tool:** Digital Literacy Awareness Quiz (Google Forms)[cite: 166].
-* [cite_start]**Quiz Link:** [Insert your Google Form Link Here] 
-* **Deliverable:** [Activity Proof](./task-3-platforms/)
+**Focus:** Technical proficiency and cloud-based teamwork.
+**Coding Challenge:** Python challenge on HackerRank.
+**Collaboration Tool:** Digital Literacy Awareness Quiz (Google Forms).
+**Quiz Link:** [[](https://docs.google.com/forms/d/e/1FAIpQLSdXOSvrXXhqpq8rIklw6RPMoEb9xiQfoRxUt4x0YXJlMx18Bw/viewform?usp=dialog)]
+**Deliverable:** [Activity Proof](./task-3-platforms/)
 
-### Task 4: Professional Email & Etiquette Guide
-* [cite_start]**Focus:** Professional communication and social media responsibility[cite: 60].
-* [cite_start]**Deliverables:** Extension request email, internship inquiry email, and a social media checklist[cite: 61, 67].
-* **Location:** [/task-4-email-etiquette/](./task-4-email-etiquette/)
-
-### Task 5: Cybercrime Awareness & Prevention
-* [cite_start]**Focus:** Recognizing and preventing online threats like Phishing[cite: 74, 77].
-* [cite_start]**Deliverables:** Phishing case study and a 'Stay Safe Online' prevention guide[cite: 76, 81].
-* **Location:** [/task-5-cybercrime/](./task-5-cybercrime/)
+### Task 4: Professional Email & Etiquette Guide  
+**Focus:** Professional communication and social media responsibility.  
+**Deliverables:** Extension request email, internship inquiry email, and a social media checklist.  
+**Location:** [/task-4-email-etiquette/](./task-4-email-etiquette/)  
+  
+### Task 5: Cybercrime Awareness & Prevention  
+**Focus:** Recognizing and preventing online threats like Phishing.  
+**Deliverables:** Phishing case study and a 'Stay Safe Online' prevention guide.  
+**Location:** [/task-5-cybercrime/](./task-5-cybercrime/)  
 
 ---
 
