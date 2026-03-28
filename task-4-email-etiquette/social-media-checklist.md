@@ -1,6 +1,6 @@
 Do's
 
-Do use privacy settings to control who sees your posts.
+Do use privacy settings to control who sees your posts. /n
 Do think before you post; assume everything is permanent.
 Do cite sources when sharing someone else's work.
 Do keep your profile professional for future employers.
