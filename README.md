@@ -1,4 +1,4 @@
-Task 3: Coding & Collaboration Platforms
+Task 3: Coding & Collaboration Platforms  
 📌 Part A: Coding Practice
 I completed the "Solve Me First" Python challenge on HackerRank. This exercise helped me understand how to use online judges and automated testing platforms for programming.
 
