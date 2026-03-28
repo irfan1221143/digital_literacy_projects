@@ -1,4 +1,0 @@
-## Task 1: Digital Literacy Awareness Infographic
-For the first task of my Digital Literacy Portfolio, I used Canva to design a one-page infographic aimed at my peers. The visual covers three critical topics: a definition of digital literacy, safe internet practices (including 2FA and phishing awareness), and maintaining a professional online presence.
-
-I chose a clean, illustrative design to make the information accessible to first-year students. One thing I found interesting while making this was how many safety habits, like checking sender emails for phishing, are often overlooked in daily life. The most difficult part was ensuring the layout remained professional while including enough detail to be useful. This exercise helped me realize that as a Student Digital Ambassador, clear visual communication is key to helping others navigate the digital world safely.
