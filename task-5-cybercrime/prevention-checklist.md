@@ -12,4 +12,4 @@
 
 7. Public Wi-Fi Warning: Avoid logging into bank accounts or portals while using unsecured public campus Wi-Fi.
 
-8. Report Incidents: If you are a victim, immediately report it to the National Cyber Crime Portal at [suspicious link removed] or call the Helpline 1930.
+8. Report Incidents: If you are a victim, immediately report it to the National Cyber Crime Portal at [[suspicious link removed]](https://cybercrime.gov.in/Webform/Accept.aspx) or call the Helpline 1930.
