@@ -31,7 +31,7 @@ As a selected **Student Digital Ambassador**, my role is to assist peers in navi
 **Focus:** Technical proficiency and cloud-based teamwork.  
 **Coding Challenge:** Python challenge on HackerRank.  
 **Collaboration Tool:** Digital Literacy Awareness Quiz (Google Forms).  
-**Quiz Link:** [[#](https://docs.google.com/forms/d/e/1FAIpQLSdXOSvrXXhqpq8rIklw6RPMoEb9xiQfoRxUt4x0YXJlMx18Bw/viewform?usp=dialog)]  
+**Quiz Link:** [[https://docs.google.com/forms/d/e/1FAIpQLSdXOSvrXXhqpq8rIklw6RPMoEb9xiQfoRxUt4x0YXJlMx18Bw/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSdXOSvrXXhqpq8rIklw6RPMoEb9xiQfoRxUt4x0YXJlMx18Bw/viewform?usp=dialog)]  
 **Deliverable:** [Activity Proof](./task-3-platforms/)  
 
 ### Task 4: Professional Email & Etiquette Guide  
