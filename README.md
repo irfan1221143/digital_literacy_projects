@@ -11,7 +11,7 @@
 ---
 
 ## 📢 Project Overview
-[cite_start]As a selected **Student Digital Ambassador**, my role is to assist peers in navigating the digital world—from building professional online identities to ensuring safe and responsible digital communication[cite: 4, 5]. [cite_start]This repository contains my complete Digital Literacy Portfolio, organized into five core modules[cite: 6, 8].
+[cite_start] As a selected **Student Digital Ambassador**, my role is to assist peers in navigating the digital world—from building professional online identities to ensuring safe and responsible digital communication[cite: 4, 5]. [cite_start]This repository contains my complete Digital Literacy Portfolio, organized into five core modules [cite: 6, 8].
 
 ---
 
