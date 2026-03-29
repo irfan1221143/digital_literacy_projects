@@ -1,6 +1,6 @@
-Subject: Extension Request: Digital Literacy Project - Irfan Alam Ansari
+**Subject:** Extension Request: Digital Literacy Project - Irfan Alam Ansari
 
-Dear Professor Kannan, 
+Dear **Professor Kannan**, 
 
 I am writing to respectfully request an extension for the upcoming assignment deadline. Due to some unexpected personal circumstances, 
 I require a few additional days to ensure my work meets the required standards.
