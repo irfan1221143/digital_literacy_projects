@@ -7,6 +7,8 @@ I have explored platforms used for practicing programming logic and technical in
 * **Challenge Completed:** Python Basics
 * **Key Learning:** Practiced basic syntax and problem-solving logic in a competitive programming environment.
 
+---
+
 ## Part B: Google Workspace Collaboration
 I developed a digital resource to test the digital literacy levels of my peers.
 
