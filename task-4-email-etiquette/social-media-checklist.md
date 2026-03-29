@@ -1,4 +1,6 @@
-# 📋Do's
+# Social Media Do's and Don'ts checklist:
+
+## 📋Do's
 
 * Do use privacy settings to control who sees your posts.  
 * Do think before you post; assume everything is permanent.  
@@ -7,7 +9,7 @@
 * Do fact-check information before hitting the 'share' button.  
 
 
-# 🚫Don'ts
+## 🚫Don'ts
 
 * Don't post offensive or discriminatory content.  
 * Don't share your location or private contact details publicly.  
