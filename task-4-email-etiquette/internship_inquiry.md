@@ -17,5 +17,5 @@ Thank you for your time and for considering my request. I look forward to hearin
 
 Sincerely,  
 Irfan Alam Ansari  
-(https://www.linkedin.com/in/irfan-alam-5440b51b8)  
+https://www.linkedin.com/in/irfan-alam-5440b51b8   
 irfan.25bai11088@gmail.com  
