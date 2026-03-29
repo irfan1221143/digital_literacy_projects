@@ -14,8 +14,10 @@ message creates a sense of urgency.
 app's function.
 
 ## Financial and UPI Safety
-* **Never Share Your UPI PIN:** A UPI PIN is only required to *send* money, never to *receive* it. [cite_start]If someone asks for your PIN to "verify" a payment to you, it is a scam[cite: 83].
-* [cite_start]**Verify Receiver Identity:** Always double-check the name of the person or merchant on the UPI app's confirmation screen before hitting "Pay"[cite: 83].
+* **Never Share Your UPI PIN:** A UPI PIN is only required to *send* money, never to *receive* it.
+If someone asks for your PIN to "verify" a payment to you, it is a scam.
+* **Verify Receiver Identity:** Always double-check the name of the person or merchant on the UPI app's confirmation screen before hitting
+"Pay".
 
 ---
 
