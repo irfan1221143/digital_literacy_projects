@@ -1,4 +1,4 @@
-# Task 2: Student Digital Portfolio
+# Task 2: Student Digital Portfolio - Reflection Notes
 
 ## 📌 Overview
 As a Student Digital Ambassador, I have established a professional digital presence on platforms key to the AI & ML community. 
