@@ -11,6 +11,6 @@ Please find my resume and portfolio links attached for your review. I look forwa
 your organization.
 
 Sincerely,  
-Irfan Alam Ansari 
+Irfan Alam Ansari  
 https://www.linkedin.com/in/irfan-alam-5440b51b8  
 irfan.25bai11088@gmail.com
