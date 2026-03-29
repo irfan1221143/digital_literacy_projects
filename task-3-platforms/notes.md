@@ -16,6 +16,6 @@ I developed a digital resource to test the digital literacy levels of my peers.
 * **Live Form Link:** (https://docs.google.com/forms/d/e/1FAIpQLSdXOSvrXXhqpq8rIklw6RPMoEb9xiQfoRxUt4x0YXJlMx18Bw/viewform?usp=dialog) 
 
 ## Files in this Folder
-* `coding_challenge_ss.png`: Proof of the completed coding task and score.
-* `google_form_ss.png`: Screenshot of the quiz layout.
-* `responses_sheet_ss.png`: Screenshot of the linked Google Sheet for data collection.
+* `hackerrank_ss.jpg`: Proof of the completed coding task and score.
+* `google_form_ss.jpg`: Screenshot of the quiz layout.
+* `responses_for_google_form_ss.jpg`: Screenshot of the linked Google Sheet for data collection.
