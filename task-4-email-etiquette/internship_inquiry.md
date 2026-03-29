@@ -1,7 +1,7 @@
 **Subject:** Inquiry Regarding Summer Internship Opportunities - Irfan Alam Ansari
 
 
-Dear Internship Coordinator,
+Dear **Internship Coordinator**,
 
 I am a first-year B.Tech student at VIT Bhopal University, and I am writing to express my interest in potential summer internship opportunities at your company. 
 
