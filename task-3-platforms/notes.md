@@ -8,7 +8,7 @@ I have explored platforms used for practicing programming logic and technical in
 * **Key Learning:** Practiced basic syntax and problem-solving logic in a competitive programming environment.
 
 ## Part B: Google Workspace Collaboration
-[cite_start]I developed a digital resource to test the digital literacy levels of my peers.
+I developed a digital resource to test the digital literacy levels of my peers.
 
 * **Tool Used:** Google Forms
 * **Project:** Digital Literacy Awareness Quiz.  
