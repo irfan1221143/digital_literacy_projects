@@ -1,7 +1,7 @@
 Email 1: Requesting an Extension
 File Name: extension_request.txt
 
-Subject: Request for Extension: [Assignment Name] - [Your Name] - [Your Reg No.]
+Subject: Request for Extension: Digital Literacy Project - Irfan Alam Ansari - 25BAI11088
 
 Dear Professor Kannan,
 
@@ -17,5 +17,5 @@ Thank you for your time and for considering my request. I look forward to hearin
 
 Sincerely, 
 Irfan Alam Ansari
-[linkedin:](https://www.linkedin.com/in/irfan-alam-5440b51b8)
+(https://www.linkedin.com/in/irfan-alam-5440b51b8)
 irfan.25bai11088@gmail.com
