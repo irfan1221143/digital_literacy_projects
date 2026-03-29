@@ -1,4 +1,4 @@
-** Subject: ** Inquiry Regarding Summer Internship Opportunities - Irfan Alam Ansari
+**Subject:** Inquiry Regarding Summer Internship Opportunities - Irfan Alam Ansari
 
 
 Dear Internship Coordinator,
