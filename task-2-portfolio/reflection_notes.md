@@ -15,4 +15,4 @@ This folder contains evidence of my profiles on LinkedIn, GitHub, and Kaggle.
 3. **Kaggle Profile:** Established for future data science and machine learning contributions.
 
 ## 💡 Reflection Summary
-Setting up these platforms allows me to connect with the global academic and professional community. [cite_start]I plan to use these tools over the next four years to showcase my projects and network for internships.
+Setting up these platforms allows me to connect with the global academic and professional community. I plan to use these tools over the next four years to showcase my projects and network for internships.
