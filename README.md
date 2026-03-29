@@ -20,19 +20,19 @@ As a selected **Student Digital Ambassador**, my role is to assist peers in navi
 ### Task 1: Digital Literacy Awareness Infographic  
 **Focus:** Visual communication of digital literacy and safe internet practices.  
 **Tool Used:** Canva.  
-**Deliverable:** [Infographic Image](./task-1-presentation/)  
+**Location:** [./task-1-presentation/](./task-1-presentation/)  
 
 ### Task 2: Student Digital Portfolio  
 **Focus:** Establishing a professional presence on key industry platforms.  
 **Platforms:** GitHub, LinkedIn, and Kaggle.  
-**Deliverable:** [Profile Screenshots](./task-2-portfolio/)  
+**zlocation:** [./task-2-portfolio/](./task-2-portfolio/)  
 
 ### Task 3: Coding & Collaboration Platforms  
 **Focus:** Technical proficiency and cloud-based teamwork.  
 **Coding Challenge:** Python challenge on HackerRank.  
 **Collaboration Tool:** Digital Literacy Awareness Quiz (Google Forms).  
 **Quiz Link:** [[https://docs.google.com/forms/d/e/1FAIpQLSdXOSvrXXhqpq8rIklw6RPMoEb9xiQfoRxUt4x0YXJlMx18Bw/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSdXOSvrXXhqpq8rIklw6RPMoEb9xiQfoRxUt4x0YXJlMx18Bw/viewform?usp=dialog)]  
-**Deliverable:** [Activity Proof](./task-3-platforms/)  
+**Location:** [./task-3-platforms/](./task-3-platforms/)  
 
 ### Task 4: Professional Email & Etiquette Guide  
 **Focus:** Professional communication and social media responsibility.  
@@ -48,7 +48,7 @@ As a selected **Student Digital Ambassador**, my role is to assist peers in navi
 
 ## 📑 Project Report
 The complete written documentation, including my detailed reflections and observations for all five tasks, is available here:  
-**[View Full Project Report](./report/Project_Report.pdf)**  
+**[./report/Project_Report.pdf](./report/Project_Report.pdf)**  
 
 ---
 
