@@ -8,6 +8,7 @@
 * Do keep your profile professional for future employers.  
 * Do fact-check information before hitting the 'share' button.  
 
+---
 
 ## 🚫Don'ts
 
