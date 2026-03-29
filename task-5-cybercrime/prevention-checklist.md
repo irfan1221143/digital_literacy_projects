@@ -1,15 +1,26 @@
-1. Verify the Sender: Always check the actual email address of the sender, not just the display name.
+# Stay Safe Online: Prevention Checklist for Students
 
-2. Enable MFA: Use Multi-Factor Authentication (MFA) on all academic and social media accounts.
+As a Student Digital Ambassador, I have compiled this checklist to help my peers recognize and avoid common online threats.
 
-3. Check URLs: Hover over links before clicking to ensure they lead to the official .edu or .ac.in domains.
+## General Security Best Practices
+* **Use Strong, Unique Passwords:** Never reuse the same password for your college portal and personal social media accounts.
+* **Enable Two-Factor Authentication (2FA):** Always activate 2FA on your email and GitHub accounts to provide an extra layer of security
+beyond just a password.
+* **Verify Links Before Clicking:** Hover over any link in an email to see the actual destination URL before clicking, especially if the
+message creates a sense of urgency.
+* **Keep Software Updated:** Regularly update your browser and operating system to protect against the latest security vulnerabilities.
+* **Avoid Public Wi-Fi for Sensitive Tasks:** Never log into your bank or college portal while connected to unsecured public Wi-Fi networks.
+* **Check App Permissions:** Regularly review what data your mobile apps are accessing and revoke permissions that aren't necessary for the
+app's function.
 
-4. UPI Safety - Receiving Money: Remember that you never need to enter your PIN to receive money via UPI.
+## Financial and UPI Safety
+* **Never Share Your UPI PIN:** A UPI PIN is only required to *send* money, never to *receive* it. [cite_start]If someone asks for your PIN to "verify" a payment to you, it is a scam[cite: 83].
+* [cite_start]**Verify Receiver Identity:** Always double-check the name of the person or merchant on the UPI app's confirmation screen before hitting "Pay"[cite: 83].
 
-5. UPI Safety - PIN Privacy: Never share your UPI PIN or OTP with anyone, even if they claim to be from a bank.
+---
 
-6. Use Strong Passwords: Avoid using your birthdate or phone number; use a mix of symbols and numbers.
+## How to Report Cybercrime in India
+If you or someone you know falls victim to a cybercrime, report it immediately through the following official channels:
 
-7. Public Wi-Fi Warning: Avoid logging into bank accounts or portals while using unsecured public campus Wi-Fi.
-
-8. Report Incidents: If you are a victim, immediately report it to the National Cyber Crime Portal at [https://cybercrime.gov.in/Webform/Accept.aspx] or call the Helpline 1930.
+* **National Cyber Crime Reporting Portal:** [https://cybercrime.gov.in](https://cybercrime.gov.in)  
+* **National Helpline Number:** **1930** (Available 24x7)
