@@ -15,7 +15,7 @@ to ensure the final submission meets the required academic standards.
 
 Thank you for your time and for considering my request. I look forward to hearing from your side.
 
-Sincerely, 
-Irfan Alam Ansari
-(https://www.linkedin.com/in/irfan-alam-5440b51b8)
-irfan.25bai11088@gmail.com
+Sincerely,  
+Irfan Alam Ansari  
+(https://www.linkedin.com/in/irfan-alam-5440b51b8)  
+irfan.25bai11088@gmail.com  
