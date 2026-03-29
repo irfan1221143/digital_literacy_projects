@@ -1,16 +1,21 @@
-Subject: Internship Inquiry: B.tech in CSE(AI&ML) Student - Irfan Alam Ansari
+Email 1: Requesting an Extension
+File Name: extension_request.txt
 
-Dear Internship Coordinator, 
+Subject: Request for Extension: [Assignment Name] - [Your Name] - [Your Reg No.]
 
-My name is Irfan Alam Ansari, and I am a first-year CSE(AI&ML) student at VIT Bhopal University. I am writing to express my strong interest 
-in a summer internship opportunity with your organization. 
+Dear Professor Kannan,
 
-I have been developing my skills in Python and Digital Literacy and would welcome the chance to contribute to your team. Please find my 
-profile details attached. 
+I hope this email finds you well.
 
-Thank you for your time and I look forward to hearing from you. 
+I am writing to respectfully request an extension for the Digital Literacy Project due on 31st of march 2026. Unfortunately, due to an 
+unexpected health issue, I am unable to complete the assignment by the current deadline.
+
+Would it be possible to submit my work by 3rd of april 2026 instead? I have already completed a significant portion of the task and want 
+to ensure the final submission meets the required academic standards.
+
+Thank you for your time and for considering my request. I look forward to hearing from your side.
 
 Sincerely, 
 Irfan Alam Ansari
-https://www.linkedin.com/in/irfan-alam-5440b51b8/
+[linkedin:](https://www.linkedin.com/in/irfan-alam-5440b51b8)
 irfan.25bai11088@gmail.com
