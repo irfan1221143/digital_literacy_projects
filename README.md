@@ -25,7 +25,7 @@ As a selected **Student Digital Ambassador**, my role is to assist peers in navi
 ### Task 2: Student Digital Portfolio  
 **Focus:** Establishing a professional presence on key industry platforms.  
 **Platforms:** GitHub, LinkedIn, and Kaggle.  
-**zlocation:** [./task-2-portfolio/](./task-2-portfolio/)  
+**location:** [./task-2-portfolio/](./task-2-portfolio/)  
 
 ### Task 3: Coding & Collaboration Platforms  
 **Focus:** Technical proficiency and cloud-based teamwork.  
