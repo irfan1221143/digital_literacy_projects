@@ -53,7 +53,7 @@ The complete written documentation, including my detailed reflections and observ
 ---
 
 ## 🛠️ Tools & References
-**Design:** Canva  www.canva.com
-**Coding:** HackerRank  
-**Networking:** LinkedIn & Kaggle  
-**Safety:** National Cyber Crime Portal (1930)  
+**Design:** Canva  www.canva.com  
+**Coding:** HackerRank  www.hackerrank.com  
+**Networking:** LinkedIn & Kaggle www.linkedin.com & www.kaggle.com  
+**Safety:** National Cyber Crime Portal (1930) www.cybercrime.gov.in  
